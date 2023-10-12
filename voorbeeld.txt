@@ -1,0 +1,3 @@
+onze commando's
+
+git status
