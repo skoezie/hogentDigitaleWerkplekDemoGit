@@ -1,3 +1,6 @@
 onze commando's
 
 git status
+git commit
+git push
+-- nieuwe lijn ;-)
